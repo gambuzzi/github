@@ -4555,3 +4555,143 @@ This repository contains an implementation of Google's text-to-image neural netw
 [https://github.com/MathisBullinger/froebel](https://github.com/MathisBullinger/froebel)
 
 
+# Toolong 
+
+Toolong is a terminal application for viewing, tailing, merging, and searching log files and JSONL. It features live tailing of log files, syntax highlighting for common web server log formats, pretty printed JSONL files, support for .bz and .bz2 files, and merging via auto detection of timestamps. Screenshots and video demos are available in the repository.
+
+[https://github.com/Textualize/toolong](https://github.com/Textualize/toolong)
+
+
+# Miracode 
+
+Miracode is a readable version of Monocraft, a font based on the typeface used in the Minecraft UI.
+
+[https://github.com/IdreesInc/Miracode](https://github.com/IdreesInc/Miracode)
+
+
+# Conductor 
+
+Conductor is a platform for orchestrating microservices and events. It supports a wide range of database persistence layers and queuing services and has been battle-tested in production at Netflix. Conductor provides powerful flow control constructs, client libraries in multiple languages, and a distributed scalable architecture. It features a bundled UI with an integrated interface to create, refine, and validate workflows. It also has a full-featured API for custom automations.
+
+[https://github.com/conductor-oss/conductor](https://github.com/conductor-oss/conductor)
+
+
+# GitButler 
+
+GitButler is a git branch management tool built for modern workflows. It is currently available for macOS and Linux - Windows support is in development. GitButler lets developers work on multiple branches at the same time, allowing them to quickly organize file changes into separate branches while still having them apply to the working directory. It can push branches individually and directly create pull requests.
+
+[https://github.com/gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+
+
+# SGLang 
+
+SGLang is a structured generation language designed for large language models that makes interacting with them faster and more controllable.
+
+[https://github.com/sgl-project/sglang](https://github.com/sgl-project/sglang)
+
+
+# Stable Cascade 
+
+Stable Cascade is an image generation model that works at a much smaller latent space than other models like Stable Diffusion.
+
+[https://github.com/Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade)
+
+
+# oink.php 
+
+oink.php is a single-file API wrapper for PHP. It makes it easy to route endpoints, set parameters, and return responses. oink.php was designed to be simple and comfortable to use. Examples of using oink.php to create a blog and gallery are available.
+
+[https://github.com/jcarlosroldan/oink](https://github.com/jcarlosroldan/oink)
+
+
+# OpenLLMetry-JS 
+
+OpenLLMetry-JS is a set of extensions built on top of OpenTelemetry that provides developers with complete observability over their LLM applications. It can be connected to existing observability solutions. OpenLLMetry-JS can instrument everything that OpenTelemetry already instruments. It also has custom extensions for instrumenting things like calls to OpenAI or Vector DBs.
+
+[https://github.com/traceloop/openllmetry-js](https://github.com/traceloop/openllmetry-js)
+
+
+# uv 
+
+uv is an extremely fast Python package installer and resolver designed as a drop-in replacement for pip and pip-compile. It is disk-space efficient and has a global cache for dependency deduplication. uv has been tested at scale against the top 10,000 PyPI packages. It supports advanced features such as dependency version overrides and alternative resolution strategies.
+
+[https://github.com/astral-sh/uv](https://github.com/astral-sh/uv)
+
+
+# Magika 
+
+Magika is an AI-powered file type detection tool. It uses a custom Keras model that only weighs around 1MB to enable precise file identification within milliseconds when running on a single CPU. Magika achieves over 99% precision and recall. It is used at scale at Google to improve users' safety by routing files to the proper security and content policy scanners.
+
+[https://github.com/google/magika](https://github.com/google/magika)
+
+
+# htmz 
+
+htmz is a minimalist HTML microframework for creating dynamic web user interfaces. It allows developers to load HTML resources within any element in a page. htmz only requires an inline HTML snippet to work - there are no dependencies and no backend is required.
+
+[https://github.com/Kalabasa/htmz](https://github.com/Kalabasa/htmz)
+
+
+# Tempest 
+
+Tempest is a PHP MVC micro-framework. It handles as much framework-related code as possible so developers can focus on application code. Tempest doesn't require any config or overhead.
+
+[https://github.com/tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework)
+
+
+# ReadySet 
+
+ReadySet is a transparent database cache for Postgres and MySQL. It provides the performance and scalability of an in-memory key-value store without requiring users to rewrite their apps or manually handle cache invalidation. ReadySet can turn even the most complex SQL reads into lightning-fast lookups. It keeps cached query results in sync with databases automatically by utilizing the database's replication stream. ReadySet can be used along with an existing ORM or database client.
+
+[https://github.com/readysettech/readyset](https://github.com/readysettech/readyset)
+
+
+# Pages CMS 
+
+Pages CMS is an open-source content management system built for static websites. It allows developers to edit website content directly on GitHub via a user-friendly interface. Pages CMS is intended to be deployed with Cloudflare Pages using Cloudflare Workers for the serverless code.
+
+[https://github.com/pages-cms/pages-cms](https://github.com/pages-cms/pages-cms)
+
+
+# Functional UI Kit 
+
+Functional UI Kit is a design system that focuses on accessibility, development experience, and unified designer-developer experience. It uses Figma variables and CSS variables that share the same names, usage, and inheritance structure. Each Figma variable has a direct counterpart in CSS so there's no confusion. Functional UI Kit is packed with best practices, unified prop names, and consistent design and code.
+
+[https://github.com/functional-ui/functional-ui-kit](https://github.com/functional-ui/functional-ui-kit)
+
+
+# React Strict DOM 
+
+React Strict DOM aims to improve and standardize the development of styled React components for web and native. It integrates React DOM and StyleX to improve the speed and efficiency of React development without compromising performance, reliability, or quality. The tool is used at Meta to ship features faster to more platforms with fewer engineers.
+
+[https://github.com/facebook/react-strict-dom](https://github.com/facebook/react-strict-dom)
+
+
+# PGlite 
+
+PGlite enables developers to run Postgres in the browser, Node.js, and Bun without any other dependencies.
+
+[https://github.com/electric-sql/pglite](https://github.com/electric-sql/pglite)
+
+
+# justpath 
+
+justpath is a utility for exploring the PATH environment variable in both Windows and Linux. It can only view the PATH variable - neither justpath nor any of its child processes can modify the shell PATH directly. justpath provides a modified version of PATH that can later be used in a shell startup script or with an environment manager. It can be used to filter directory names, purge incorrect paths, create new content strings for PATH, dump PATH as JSON, and more.
+
+[https://github.com/epogrebnyak/justpath](https://github.com/epogrebnyak/justpath)
+
+
+# R2R 
+
+R2R is a semi-opinionated framework for the rapid deployment of production-ready RAG systems. It aims to bridge the gap between experimental RAG models and production-ready systems. R2R offers a straightforward path to deploying, adapting, and maintaining RAG pipelines in production. A short demo video is available.
+
+[https://github.com/SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
+
+
+# ingestr 
+
+ingestr is a command-line tool that can copy data between databases with a single command. It can copy data from any source to any destination without any code. ingestr supports incremental loading with append, merge, or delete+insert.
+
+[https://github.com/bruin-data/ingestr](https://github.com/bruin-data/ingestr)
+
+
