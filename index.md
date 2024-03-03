@@ -4695,3 +4695,24 @@ ingestr is a command-line tool that can copy data between databases with a singl
 [https://github.com/bruin-data/ingestr](https://github.com/bruin-data/ingestr)
 
 
+# Pingora 
+
+Pingora is a library for building fast, reliable, and programmable network services. It has been used to serve more than 40 million Internet requests per second at Cloudflare for more than a few years. Pingora features customizable load balancing and fail over strategies, support for a variety of observability tools, gRPC and websocket proxying, and TLS over OpenSSL or BoringSSL.
+
+[https://github.com/cloudflare/pingora/tree/main](https://github.com/cloudflare/pingora/tree/main)
+
+
+# pipelined query language 
+
+pql (pipelined query language) is a pipeline-based query language, inspired by Microsoft's Kusto Query Language, that compiles into SQL. The generated SQL is database agnostic. pql is designed to make developing queries simple by piping the result of each statement into the next. Examples are available.
+
+[https://github.com/runreveal/pql](https://github.com/runreveal/pql)
+
+
+# VersionFox 
+
+VersionFox is an extendable cross-platform tool for managing SDK versions. It allows users to quickly install and switch between different versions of SDKs using the command line. VersionFox supports Global, Project, and Session scopes when switching versions. It has a simple plugin system for adding language support.
+
+[https://github.com/version-fox/vfox](https://github.com/version-fox/vfox)
+
+
