@@ -4716,3 +4716,59 @@ VersionFox is an extendable cross-platform tool for managing SDK versions. It al
 [https://github.com/version-fox/vfox](https://github.com/version-fox/vfox)
 
 
+# Daft 
+
+Daft is a distributed query engine for large-scale data processing designed for the cloud. It features a familiar interactive API, a powerful query optimizer, data catalog integrations, a rich multimodal type system, and more. Daft was designed to be able to process any data. It is built for interactive developer experiences on large clusters of machines with thousands of CPUs/GPUs.
+
+[https://github.com/Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft)
+
+
+# ElysiaJS 
+
+ElysiaJS is a Bun TypeScript framework that features end-to-end type safety, a unified type system, and an outstanding developer experience.
+
+[https://github.com/elysiajs/elysia](https://github.com/elysiajs/elysia)
+
+
+# Puter 
+
+Puter is a feature-rich, exceptionally fast, and highly extensible desktop environment that runs in the browser.
+
+[https://github.com/HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+
+# Daytona 
+
+Daytona is a development environment manager. It can set up development environments on any infrastructure using a single command. Daytona automates the entire process. It features configuration file support, IDE support, Git provider integration, a multiple project workspace, reverse proxy integration, and more.
+
+[https://github.com/daytonaio/daytona](https://github.com/daytonaio/daytona)
+
+
+# Niquests 
+
+Niquests is a simple HTTP library that allows Python developers to send HTTP requests extremely easily - it is designed as a drop-in replacement for Requests, which is under a feature freeze.
+
+[https://github.com/jawah/niquests](https://github.com/jawah/niquests)
+
+
+# Elodin 
+
+Elodin is a platform for designing, testing, and simulating drones, satellites, and aerospace control systems.
+
+[https://github.com/elodin-sys/elodin](https://github.com/elodin-sys/elodin)
+
+
+# Grats 
+
+Grats makes building GraphQL servers as simple as writing functions. It leverages existing type annotations to automatically extract an executable GraphQL scheme from generic TypeScript resolver code. Grats makes the TypeScript implementation into a source of truth so developers don't have to worry about validating whether their implementations match their schemas.
+
+[https://github.com/captbaritone/grats](https://github.com/captbaritone/grats)
+
+
+# Flyde 
+
+Flyde is a visual programming language that integrates with existing codebases, allowing developers to create and run visual programs.
+
+[https://github.com/flydelabs/flyde](https://github.com/flydelabs/flyde)
+
+
