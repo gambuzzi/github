@@ -4772,3 +4772,38 @@ Flyde is a visual programming language that integrates with existing codebases, 
 [https://github.com/flydelabs/flyde](https://github.com/flydelabs/flyde)
 
 
+# Hatchet 
+
+By replacing difficult-to-manage legacy queues and pub/subsystems, Hatchet allows developers to design durable workloads that recover from failure and solve for problems like concurrency, fairness, and rate limiting.
+
+[https://github.com/hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
+
+
+# Rolldown 
+
+Rolldown is a fast bundler for JavaScript with a Rollup-compatible API and plugin interface.
+
+[https://github.com/rolldown-rs/rolldown](https://github.com/rolldown-rs/rolldown)
+
+
+# React Geiger 
+
+React Geiger runs in the background and alerts developers to excessively slow React component rerenders.
+
+[https://github.com/kristiandupont/react-geiger](https://github.com/kristiandupont/react-geiger)
+
+
+# Transformer Debugger 
+
+Transformer Debugger is a tool that supports investigations into specific behaviors of small language models by combining automated interpretability techniques with sparse autoencoders.
+
+[https://github.com/openai/transformer-debugger](https://github.com/openai/transformer-debugger)
+
+
+# Flox 
+
+Flox is a virtual environment and package manager that makes dependencies portable across the full software cycle.
+
+[https://github.com/flox/flox](https://github.com/flox/flox)
+
+
