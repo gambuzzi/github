@@ -4807,3 +4807,87 @@ Flox is a virtual environment and package manager that makes dependencies portab
 [https://github.com/flox/flox](https://github.com/flox/flox)
 
 
+# pg_hint_plan 
+
+pg_hint_plan allows developers to tweak PostgreSQL execution plans using hints in SQL comments. Planners estimate the costs of each possible execution plan for a SQL statement then execute the plan with the lowest cost. While PostgreSQL's planner does its best to select the best execution plan using its cost-based optimizer, which uses data statistics rather than static rules, it is far from perfect as it doesn't count some data properties. pg_hint_plan has hints to control scan methods, join methods, join order, behavior on join, row number correction, parallel query configuration, and more.
+
+[https://github.com/ossc-db/pg_hint_plan](https://github.com/ossc-db/pg_hint_plan)
+
+
+# React Print 
+
+React Print is a UI kit for building and generating PDFs and print documents. It contains simple and reusable components and templates for creating invoices, documents, and brochures. React Print gives developers complete control over their layouts, including margins, headers, footers, and more. It allows developers to integrate dynamic data into PDFs.
+
+[https://github.com/OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf)
+
+
+# jnv 
+
+jnv features an interactive JSON viewer and jq filter editor.
+
+[https://github.com/ynqa/jnv](https://github.com/ynqa/jnv)
+
+
+# GPT-5 might arrive this summer as a “materially better” update to ChatGPT 
+
+OpenAI is expected to release a major AI model, possibly GPT-5, sometime in mid-2024, likely during the summer. The new model will likely be a multimodel large language model with similar capabilities to GPT-4, but better. OpenAI is still reportedly training the model, after which it will go through internal safety testing to identify any issues before public release. Other issues, besides those that may come up from testing, may delay the launch.
+
+[https://github.com/deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook)
+
+
+# GritQL 
+
+GritQL is a declarative query language for searching and modifying source code. It uses Rust and query optimization to scale up to over 10 million line repositories. GritQL's built-in module system has over 200 standard patterns. It can be used to rewrite any target language (JavaScript/TypeScript, Python, JSON, Java, Terraform, Solidity, CSS, Markdown, YAML, Rust, Go, or SQL).
+
+[https://github.com/getgrit/gritql](https://github.com/getgrit/gritql)
+
+
+# pgwire 
+
+pgwire implements PostgreSQL Wire Protocol and provides APIs for building Postgres-compatible access layers for data services.
+
+[https://github.com/sunng87/pgwire](https://github.com/sunng87/pgwire)
+
+
+# Dropflow 
+
+Dropflow is a CSS layout engine with a high-quality text layout implementation capable of displaying many languages. It can generate PDFs or images and render rich wrapped text to a canvas in the browser. Dropflow supports bidirectional and RTL text, font fallbacks at the grapheme level, colored diacritics, optimized shaping, and much more.
+
+[https://github.com/chearon/dropflow](https://github.com/chearon/dropflow)
+
+
+# Tortoise 
+
+Tortoise is an automated solution designed to meet all Kubernetes resource optimization needs. It shifts optimization responsibility from service owners to platform teams, requiring service owners to configure only a minimal amount of parameters to initiate autoscaling. Tortoise allows for comprehensive tuning by platform teams. It currently only supports deployment - support for all resources supporting scale subresources is in development.
+
+[https://github.com/mercari/tortoise](https://github.com/mercari/tortoise)
+
+
+# Garnet 
+
+Garnet is a remote cache store that offers strong performance, scalability, storage, recovery, cluster sharding, key migration, and replication features. It works with existing Redis clients and can handle multi-key transactions. Garnet has a fast pluggable network design for high end-to-end performance. It can reduce costs for large services.
+
+[https://github.com/microsoft/garnet](https://github.com/microsoft/garnet)
+
+
+# Lapdev 
+
+Lapdev is a self-hosted application that creates remote development environments anywhere. It can scale from a single machine to a global fleet of servers. Lapdev uses Devcontainer open specification for defining development environments as code. It can be used to help onboard developers to new projects without wasting hours on preparing environments on their machines.
+
+[https://github.com/lapce/lapdev](https://github.com/lapce/lapdev)
+
+
+# OpenDevin 
+
+OpenDevin is an open-source project that aims to replicate Devin, an autonomous AI software engineer capable of executing complex engineering tasks and collaborating on software development projects.
+
+[https://github.com/OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
+
+
+# Spice 
+
+Spice is a runtime that makes querying data by SQL across one or more data sources simple and fast. It provides developers with a unified SQL query interface that can locally materialize, accelerate, and query data tables sourced from any database, data warehouse, or data lake. Spice makes it easy to build data-driven and data-intensive applications. It leverages industry-leading technologies like Apache DataFusion, Apache Arrow, Apache Arrow Flight, and DuckDB.
+
+[https://github.com/spiceai/spiceai](https://github.com/spiceai/spiceai)
+
+
