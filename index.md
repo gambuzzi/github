@@ -4891,3 +4891,38 @@ Spice is a runtime that makes querying data by SQL across one or more data sourc
 [https://github.com/spiceai/spiceai](https://github.com/spiceai/spiceai)
 
 
+# xzbot 
+
+xzbot is a toolkit for exploring the xz backdoor. It includes a fake vulnerable server to detect exploit attempts, a patch, a format of the backdoor payload, and a tool to trigger the exploit. A list of references for more information on the exploit is available.
+
+[https://github.com/amlweems/xzbot](https://github.com/amlweems/xzbot)
+
+
+# Lightning Whisper MLX 
+
+Lightning Whisper MLX is an incredibly fast implementation of Whisper optimized for Apple Silicon. It features batched decoding for higher throughput, distilled models for faster decoding, and quantized models for faster memory movement. Lightning Whisper MLX is 10 times faster than Whisper CPP and four times faster than the current MLX Whisper implementation.
+
+[https://github.com/mustafaaljadery/lightning-whisper-mlx](https://github.com/mustafaaljadery/lightning-whisper-mlx)
+
+
+# dotLottie-rs 
+
+dotLottie-rs is a Rust implementation of the dotLottie player and its related tools. It utilizes uniffi-rs to generate FFI bindings for Kotlin, Swift, and WebAssembly (WASM) for use in native dotLottie players. dotLottie-rs builds on the Lottie format, adding new improvements and features like theming support, multi-animation support, built-in interactivity powered by state machines, reduced animation file sizes, and more. It brings consistency of playback and dotLottie features across all platforms.
+
+[https://github.com/LottieFiles/dotlottie-rs](https://github.com/LottieFiles/dotlottie-rs)
+
+
+# Signals for Tailwind CSS 
+
+Signals for Tailwind CSS is a plugin that utilizes style queries via container queries to reactively enable custom states that can be consumed by descendants in the DOM. It reduces development effort and the need to compose a chain of variants. Signals for Tailwind CSS is useful for simplifying the application of styles based on ancestor states, improving developer experience with a more declarative API, and reducing the need for complex selector chaining and arbitrary targeting. Browser support for style queries is still limited, so Signals for Tailwind CSS may not be suitable for projects that require broad compatibility.
+
+[https://github.com/brandonmcconnell/tailwindcss-signals](https://github.com/brandonmcconnell/tailwindcss-signals)
+
+
+# SableDb 
+
+SableDb is a key-value NoSQL database that aims to reduce memory costs and increase capacity compared to Redis.
+
+[https://github.com/sabledb-io/sabledb](https://github.com/sabledb-io/sabledb)
+
+
