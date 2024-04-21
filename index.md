@@ -4926,3 +4926,67 @@ SableDb is a key-value NoSQL database that aims to reduce memory costs and incre
 [https://github.com/sabledb-io/sabledb](https://github.com/sabledb-io/sabledb)
 
 
+
+# pgmock 
+
+pgmock is an in-memory mock PostgreSQL server for unit and E2E tests. It runs entirely within WebAssembly without external dependencies on both Node.js and the browser. A link to a web demo is available at the top of the repository.
+
+[https://github.com/stackframe-projects/pgmock](https://github.com/stackframe-projects/pgmock)
+
+
+# Open Parse 
+
+Open Parse lets users easily chunk complex documents the same way a human would. It provides a flexible library capable of visually discerning document layouts and chunking them effectively. Open Parse supports Markdown and tables. It is extensible, intuitive, and easy to use and learn. Sample notebooks are available.
+
+[https://github.com/Filimoa/open-parse](https://github.com/Filimoa/open-parse)
+
+
+# llm.c 
+
+llm.c trains large language models in C/CUDA.
+
+[https://github.com/karpathy/llm.c](https://github.com/karpathy/llm.c)
+
+
+# Chronon 
+
+Chronon is a platform that allows organizations to power AI/ML projects without needing to worry about orchestration by abstracting away the complexity of data computation and serving for AI/ML applications. It can perform batch and streaming computation, scalable backfills, low-latency serving, and more. Chronon can utilize all of the data within an organization.
+
+[https://github.com/airbnb/chronon](https://github.com/airbnb/chronon)
+
+
+# PostgreSQL Index Advisor 
+
+PostgreSQL Index Advisor is a PostgreSQL extension for recommending indexes to improve query performance. It supports generic parameters and materialized views and can identify tables and columns obfuscated by views.
+
+[https://github.com/supabase/index_advisor](https://github.com/supabase/index_advisor)
+
+
+# pylyzer 
+
+pylyzer is a static code analyzer and language server for Python.
+
+[https://github.com/mtshiba/pylyzer](https://github.com/mtshiba/pylyzer)
+
+
+# Redka 
+
+Redka is Redis re-implemented with SQLite. The project aims to reimplement the good parts of Redis with SQLite while remaining compatible with Redis API. It features ACID transactions, SQL views for better introspection and reporting, Redis-compatible commands and wire protocol, and more. Redka does not support Lua scripting, authentication and ACLs, multiple databases, watch/unwatch, Cluster, or Sentinel.
+
+[https://github.com/nalgeon/redka](https://github.com/nalgeon/redka)
+
+
+# Portr 
+
+Portr is a tunnel solution that exposes local HTTP, TCP, or WebSocket connections to the public internet. It utilizes SSH remote port forwarding under the hood to securely tunnel connections. Portr is designed for small teams looking to expose development servers on public URLs and is not recommended for use alongside production servers. It features an admin dashboard for user/team management and an inspector for inspecting and replaying requests.
+
+[https://github.com/amalshaji/portr](https://github.com/amalshaji/portr)
+
+
+# Desbordante 
+
+Desbordante is a high-performance data profiler capable of discovering many different patterns in data and running data cleaning scenarios using various algorithms.
+
+[https://github.com/Desbordante/desbordante-core](https://github.com/Desbordante/desbordante-core)
+
+
